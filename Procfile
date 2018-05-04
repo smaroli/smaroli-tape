@@ -1,1 +1,0 @@
-web: gunicorn secure-reef-41246.wsgi
