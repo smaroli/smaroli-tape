@@ -1,1 +1,1 @@
-web: gunicorn secure-reef-41246.wsgi
+web: gunicorn smaroli_tape.wsgi
