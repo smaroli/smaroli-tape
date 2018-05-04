@@ -4,8 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-gunicorn = "*"
+django-heroku = "*"
 django = "*"
+twilio = "*"
+gunicorn = "*"
+spotipy = "*"
 
 [dev-packages]
 

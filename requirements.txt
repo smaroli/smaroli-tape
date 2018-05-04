@@ -1,14 +1,10 @@
-Babel==2.5.3
 certifi==2018.4.16
 chardet==3.0.4
 dj-database-url==0.5.0
-django==2.0.4
+Django==2.0.5
 django-heroku==0.3.1
-django-phonenumber-field==2.0.0
-django-twilio==0.9.0
+gunicorn==19.8.1
 idna==2.6
-phonenumberslite==8.9.4
-pipenv==11.10.1
 psycopg2==2.7.4
 PyJWT==1.6.1
 PySocks==1.6.8
@@ -18,7 +14,4 @@ six==1.11.0
 spotipy==2.4.4
 twilio==6.13.0
 urllib3==1.22
-virtualenv==15.2.0
-virtualenv-clone==0.3.0
 whitenoise==3.3.1
-gunicorn==19.8.1
